@@ -11,7 +11,8 @@
 
 ## Hecho por:
 
-###Ana García
+###Erick Honorio
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
+
 
